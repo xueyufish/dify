@@ -246,11 +246,6 @@
       "count": 1
     }
   },
-  "web/app/components/app/app-access-control/add-member-or-group-pop.tsx": {
-    "no-restricted-imports": {
-      "count": 1
-    }
-  },
   "web/app/components/app/app-publisher/features-wrapper.tsx": {
     "ts/no-explicit-any": {
       "count": 4
@@ -4704,9 +4699,6 @@
     },
     "ts/no-explicit-any": {
       "count": 3
-    },
-    "ts/no-non-null-asserted-optional-chain": {
-      "count": 1
     }
   },
   "web/service/use-tools.ts": {
